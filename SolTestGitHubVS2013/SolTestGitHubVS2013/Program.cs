@@ -12,7 +12,8 @@ namespace SolTestGitHubVS2013
         {
             System.Console.WriteLine("GitHub - KishorNaik");
             Console.WriteLine("raditya gumay");
-            Console.ReadLine();
+            Console.WriteLine("Testing Again");
+            
         }
     }
 }
